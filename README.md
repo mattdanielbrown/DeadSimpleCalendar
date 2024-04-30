@@ -1,3 +1,7 @@
+# THIS REPO IS ARCHIVED
+
+**It is obsolete now. Thank you everyone**
+
 # DeadSimpleCalendar
 
 Package provides a CalendarView which can be used to display simple calendar in your App.
